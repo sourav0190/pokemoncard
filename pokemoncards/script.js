@@ -19,3 +19,4 @@ for (let i = 0; i < 78; i++) {
     s += `<div class="card"><img src="${arr[r]}" alt="Image"></div>`;
 }
 main.innerHTML = s;
+//this is asynchronous programming

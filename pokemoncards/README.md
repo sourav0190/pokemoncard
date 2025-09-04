@@ -1,0 +1,1 @@
+this is pokemin card which randomly select pic
